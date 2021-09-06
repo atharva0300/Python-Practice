@@ -8,3 +8,4 @@ Websites :
   3. Codeforces ( C++ ) 
   4. Spoj ( C++ ) 
   5. Hackerrank ( Python and C++ )
+  6. Daily practice problems
